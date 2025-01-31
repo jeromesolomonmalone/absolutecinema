@@ -460,7 +460,7 @@ body {
 }
 
 .popup__image {
-  max-block-size: 30vh;
+  max-block-size: 42vh;
   aspect-ratio: 1/0.6;
 }
 
